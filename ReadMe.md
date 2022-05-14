@@ -7,5 +7,3 @@ May need to do the following:
 pip install scipy
 pip install sys
 pip install pylab
-
-By Mark Watson, July 2021.
