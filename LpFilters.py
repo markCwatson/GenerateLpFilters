@@ -1,11 +1,11 @@
 # By Mark Watson, Summer 2021
 
-# Example usage: py LpFlters.py 4 1 8
+# Example usage: py LpFilters.py 4 1 8
 # where Fs = 4, cutoff = 1, # taps = 8
 # Will generate LPF coefficients for FIR and moving average.
 
 from pylab import *
-from scipy.signal import windows, firwin
+from scipy.signal import firwin
 import sys
 
 
